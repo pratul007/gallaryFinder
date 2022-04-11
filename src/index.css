@@ -1,13 +1,58 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.bck
+  {
+    text-align: center;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: cursive;
+    background: aliceblue;
+    color: brown;
+    padding: 10px;
 }
+ .search{
+   background-color: black;
+   color: white;
+   margin-left: 570px;
+   margin-top: 70px;
+   padding-top: 20px;
+   padding-left: 70px;
+   font-size: 30px;
+   border-top-style: hidden;
+   border-left-style: hidden;
+   border-right-style: hidden ;
+   outline: none;
+   border-bottom-style: groove;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+ }
+ .but{
+   background-color: wheat;
+   color: black;
+ }
+
+.img-size{
+  margin-top: 20px;
+    margin-right: 10px;
+    width: 300px;
+    height: 300px;
+}
+.sub{
+  width: 100px;
+  height: 30px;
+}
+.bck-col{
+  background-color: linen
+}
+.btn-stl
+  {
+    background-color: linen;
+    color: black;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+.txt{
+  margin-top: 40px;
+  color: white;
+  font-size: large;
+  font-weight: 400;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

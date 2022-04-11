@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To Start
+For Windows
+
+just change '${process.env.REACT_APP_API_KEY}' in ImageContext.js(Line 16) and Search.js(line 13) with Your API Key
+
+OR
+
+Add your flickr API keys:
+`set REACT_APP_API_KEY=your_api_key`
+
+For Linux
+
+Add your flickr API keys:
+`export REACT_APP_API_KEY=your_api_key`
+
 ## Available Scripts
 
 In the project directory, you can run:
